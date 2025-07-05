@@ -12,6 +12,6 @@ I'm currently working on html , CSS.<br>I'm currently learning Python.<br>Fun Fa
 
 ---
 [![](https://visitcount.itsvg.in/api?id=code-Uchiha&icon=0&color=0)](https://visitcount.itsvg.in)
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
